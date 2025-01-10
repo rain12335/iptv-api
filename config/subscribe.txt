@@ -17,3 +17,4 @@ https://ghproxy.1888866.xyz/raw.githubusercontent.com/xzw832/cmys/main/S_weishi.
 https://ghproxy.1888866.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://ghproxy.1888866.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://ghproxy.1888866.xyz/raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+https://live.kilvn.com/iptv.m3u
