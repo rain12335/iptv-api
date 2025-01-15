@@ -9,4 +9,10 @@ hc73k3dhwo5gfkt.wcetv.com
 stream1.freetv.fun
 zw9999.cnstream.top
 zsntlqj.xicp.net
-tsfile
+tsfile/live/
+221.233.192.152:1111
+116.128.242.83:9901
+219.145.93.74:9999
+202.100.46.58:9901
+58.19.43.46:9901
+61.173.144.157:9901
