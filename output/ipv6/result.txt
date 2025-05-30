@@ -1,90 +1,56 @@
 🕘️更新时间,#genre#
-2025-05-30 23:17:01,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+2025-05-31 06:52:30,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
 
-📺央视频道,#genre#
+📡  央视频道,#genre#
 
-💰央视付费频道,#genre#
-央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-世界地理,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+📡  卫视频道,#genre#
 
-📡卫视频道,#genre#
-北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
-东方卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010054
-江苏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010059
-东南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010096
-广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
-浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
-湖南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058
-湖北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010057
-黑龙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010056
-安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
-重庆卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010053
-甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549
-贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474
-海南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010083
-河北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101
-河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-吉林卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010075
-江西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010060
-辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546
-内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634
-宁夏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010110
-青海卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010111
-山东卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010066
-山西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010114
-陕西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113
-四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
-深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
-三沙卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887452.m3u8
-天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
-西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
-新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
-云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
+📡  北京频道,#genre#
 
-☘️北京频道,#genre#
-北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
-北京生活,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
-北京财经,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
+📡  上海频道,#genre#
 
-☘️江苏频道,#genre#
-江苏城市,http://z.b.bkpcp.top/m.php?id=jscs
-江苏影视,http://z.b.bkpcp.top/m.php?id=jsys
-江苏教育,http://z.b.bkpcp.top/m.php?id=jsjy
-南京信息,http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8?zjiangsd
-南京十八,http://z.b.bkpcp.top/m.php?id=njsb
-南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
-南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
-南京新闻综合,http://z.b.bkpcp.top/m.php?id=njxwzh
-南京生活,https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
-淮安新闻综合,http://z.b.bkpcp.top/m.php?id=haxwzh
-淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
-淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8
-淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
+📡  江苏频道,#genre#
 
-☘️福建频道,#genre#
-福建综合,https://stream1.freetv.fun/fu-jian-zong-he-1.m3u8
-福建新闻,https://stream1.freetv.fun/fu-jian-xin-wen-1.m3u8
-福建经济,https://stream1.freetv.fun/fu-jian-jing-ji-1.m3u8
-福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-1.m3u8
-福建少儿,https://stream1.freetv.fun/fu-jian-shao-er-1.m3u8
-福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-厦门卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887454.m3u8
-三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
+📡  广东频道,#genre#
 
-🏀体育频道,#genre#
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
-五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8
-劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008
-广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai#https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
-辽宁体育,https://stream1.freetv.fun/liao-zhu-ti-yu-5.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-8.m3u8
-安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1745774515&key=27009aec794adc785b22478c5aa2ae16
-睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
-风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
+📡  湖南频道,#genre#
+
+📡  福建频道,#genre#
+
+📡  湖北频道,#genre#
+
+📡  天津频道,#genre#
+
+📡  安徽频道,#genre#
+
+📡  河南频道,#genre#
+
+📡  河北频道,#genre#
+
+📡  重庆频道,#genre#
+
+📡  四川频道,#genre#
+
+📡  陕西频道,#genre#
+
+📡  广西频道,#genre#
+
+📡  香港频道,#genre#
+
+数字4K,#genre#
+
+NewTV,#genre#
+黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
+黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
+动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
