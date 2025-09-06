@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250906195850 +0800">
+<tv date="20250906222259 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -9599,6 +9599,120 @@
 	</programme>
 	<programme channel="翡翠台" start="20250907050000 +0800" stop="20250907060000 +0800">
 		<title lang="zh">细味文明[粤/英]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907060000 +0800" stop="20250907070000 +0800">
+		<title lang="zh">我的宠物夏日反斗嘉年华[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907070000 +0800" stop="20250907073000 +0800">
+		<title lang="zh">活得健康吗?[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907073000 +0800" stop="20250907080000 +0800">
+		<title lang="zh">活得健康吗?[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907080000 +0800" stop="20250907090000 +0800">
+		<title lang="zh">糖之真相[粤/英]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907090000 +0800" stop="20250907093000 +0800">
+		<title lang="zh">星梦频道[粤/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907093000 +0800" stop="20250907100000 +0800">
+		<title lang="zh">星梦频道[粤/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907100000 +0800" stop="20250907103000 +0800">
+		<title lang="zh">MIX[粤/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907103000 +0800" stop="20250907110000 +0800">
+		<title lang="zh">MIX[粤/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907110000 +0800" stop="20250907113000 +0800">
+		<title lang="zh">讲清讲楚[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907113000 +0800" stop="20250907115500 +0800">
+		<title lang="zh">12个夏天[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907115500 +0800" stop="20250907120000 +0800">
+		<title lang="zh">宣传易[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907120000 +0800" stop="20250907123000 +0800">
+		<title lang="zh">今个夏天食平D[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907123000 +0800" stop="20250907130000 +0800">
+		<title lang="zh">今个夏天食平D[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907130000 +0800" stop="20250907131500 +0800">
+		<title lang="zh">午间新闻[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907131500 +0800" stop="20250907145500 +0800">
+		<title lang="zh">令人心动的OFFER[普]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907145500 +0800" stop="20250907152000 +0800">
+		<title lang="zh">Gi味俱全[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907152000 +0800" stop="20250907155500 +0800">
+		<title lang="zh">甜心先生[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907155500 +0800" stop="20250907160000 +0800">
+		<title lang="zh">劲歌推介[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907160000 +0800" stop="20250907163000 +0800">
+		<title lang="zh">多啦A梦[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907163000 +0800" stop="20250907165500 +0800">
+		<title lang="zh">Hands Up[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907165500 +0800" stop="20250907170000 +0800">
+		<title lang="zh">成语动画廊[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907170000 +0800" stop="20250907171500 +0800">
+		<title lang="zh">喜羊羊与灰太狼之羊羊趣冒险2[粤/普]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907171500 +0800" stop="20250907173000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之羊羊趣冒险2[粤/普]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907173000 +0800" stop="20250907175500 +0800">
+		<title lang="zh">樱桃小丸子[粤/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907175500 +0800" stop="20250907180000 +0800">
+		<title lang="zh">好嘢港多啲[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907180000 +0800" stop="20250907183000 +0800">
+		<title lang="zh">人生第一次[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907183000 +0800" stop="20250907185500 +0800">
+		<title lang="zh">六点半新闻报道[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907185500 +0800" stop="20250907190000 +0800">
+		<title lang="zh">天气报告[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907190000 +0800" stop="20250907193000 +0800">
+		<title lang="zh">港系全球  商聚湾区[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907193000 +0800" stop="20250907193500 +0800">
+		<title lang="zh">警声百二秒 III[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907193500 +0800" stop="20250907200000 +0800">
+		<title lang="zh">东张西望[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907200000 +0800" stop="20250907213000 +0800">
+		<title lang="zh">声秀[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907213000 +0800" stop="20250907220000 +0800">
+		<title lang="zh">新西兰潮什么[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907220000 +0800" stop="20250907224500 +0800">
+		<title lang="zh">今晚有歌厅[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907224500 +0800" stop="20250907231500 +0800">
+		<title lang="zh">美食新闻周报[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907231500 +0800" stop="20250907233000 +0800">
+		<title lang="zh">晚间新闻[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907233000 +0800" stop="20250907233500 +0800">
+		<title lang="zh">天气报告[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250907233500 +0800" stop="20250907235900 +0800">
+		<title lang="zh">骑呢大状#15[粤][PG]</title>
 	</programme>
 	<channel id="西藏卫视">
 		<display-name lang="zh">西藏卫视</display-name>
