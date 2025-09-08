@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250908181716 +0800">
+<tv date="20250908183747 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -9638,6 +9638,93 @@
 	</programme>
 	<programme channel="福建电视剧" start="20250909234500 +0800" stop="20250909235900 +0800">
 		<title lang="zh">午夜剧场</title>
+	</programme>
+	<channel id="福建经济">
+		<display-name lang="zh">福建经济</display-name>
+	</channel>
+	<programme channel="福建经济" start="20250909001900 +0800" stop="20250909002900 +0800">
+		<title lang="zh">新闻启示录</title>
+	</programme>
+	<programme channel="福建经济" start="20250909002900 +0800" stop="20250909044000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="福建经济" start="20250909044000 +0800" stop="20250909060200 +0800">
+		<title lang="zh">经视院线</title>
+	</programme>
+	<programme channel="福建经济" start="20250909060200 +0800" stop="20250909064700 +0800">
+		<title lang="zh">包公来了</title>
+	</programme>
+	<programme channel="福建经济" start="20250909064700 +0800" stop="20250909070000 +0800">
+		<title lang="zh">新闻启示录</title>
+	</programme>
+	<programme channel="福建经济" start="20250909070000 +0800" stop="20250909071500 +0800">
+		<title lang="zh">股市今日谈</title>
+	</programme>
+	<programme channel="福建经济" start="20250909071500 +0800" stop="20250909075900 +0800">
+		<title lang="zh">热线777</title>
+	</programme>
+	<programme channel="福建经济" start="20250909075900 +0800" stop="20250909080400 +0800">
+		<title lang="zh">说天气</title>
+	</programme>
+	<programme channel="福建经济" start="20250909080400 +0800" stop="20250909083600 +0800">
+		<title lang="zh">快乐生活一点通</title>
+	</programme>
+	<programme channel="福建经济" start="20250909083600 +0800" stop="20250909111000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="福建经济" start="20250909111000 +0800" stop="20250909112100 +0800">
+		<title lang="zh">新闻启示录</title>
+	</programme>
+	<programme channel="福建经济" start="20250909112100 +0800" stop="20250909120700 +0800">
+		<title lang="zh">包公来了</title>
+	</programme>
+	<programme channel="福建经济" start="20250909120700 +0800" stop="20250909121200 +0800">
+		<title lang="zh">说天气(午间)</title>
+	</programme>
+	<programme channel="福建经济" start="20250909121200 +0800" stop="20250909122700 +0800">
+		<title lang="zh">海峡视点</title>
+	</programme>
+	<programme channel="福建经济" start="20250909122700 +0800" stop="20250909123800 +0800">
+		<title lang="zh">八闽法治</title>
+	</programme>
+	<programme channel="福建经济" start="20250909123800 +0800" stop="20250909140200 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="福建经济" start="20250909140200 +0800" stop="20250909170000 +0800">
+		<title lang="zh">设备检修</title>
+	</programme>
+	<programme channel="福建经济" start="20250909170000 +0800" stop="20250909175300 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="福建经济" start="20250909175300 +0800" stop="20250909184100 +0800">
+		<title lang="zh">包公来了</title>
+	</programme>
+	<programme channel="福建经济" start="20250909184100 +0800" stop="20250909190000 +0800">
+		<title lang="zh">股市今日谈</title>
+	</programme>
+	<programme channel="福建经济" start="20250909190000 +0800" stop="20250909194400 +0800">
+		<title lang="zh">热线777</title>
+	</programme>
+	<programme channel="福建经济" start="20250909194400 +0800" stop="20250909195000 +0800">
+		<title lang="zh">说天气(晚间)</title>
+	</programme>
+	<programme channel="福建经济" start="20250909195000 +0800" stop="20250909204300 +0800">
+		<title lang="zh">经视秀场</title>
+	</programme>
+	<programme channel="福建经济" start="20250909204300 +0800" stop="20250909211500 +0800">
+		<title lang="zh">快乐生活一点通</title>
+	</programme>
+	<programme channel="福建经济" start="20250909211500 +0800" stop="20250909213200 +0800">
+		<title lang="zh">新闻启示录</title>
+	</programme>
+	<programme channel="福建经济" start="20250909213200 +0800" stop="20250909215600 +0800">
+		<title lang="zh">今日八闽</title>
+	</programme>
+	<programme channel="福建经济" start="20250909215600 +0800" stop="20250909232500 +0800">
+		<title lang="zh">经视院线</title>
+	</programme>
+	<programme channel="福建经济" start="20250909232500 +0800" stop="20250909235900 +0800">
+		<title lang="zh">热线777</title>
 	</programme>
 	<channel id="福建综合">
 		<display-name lang="zh">福建综合</display-name>
