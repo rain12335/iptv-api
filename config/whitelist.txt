@@ -2,3 +2,19 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+无线新闻台,http://bxtv.3a.ink/api.php?id=wxxw
+NOW新闻,http://bxtv.3a.ink/api.php?id=now
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18$!
+POPC,http://bxtv.3a.ink/api.php?id=popc
+viutv,http://bxtv.3a.ink/api.php?id=viutv
+千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+澳视澳门,http://xndhx.jydjd.top:2904/udp/224.1.100.12:11111
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+厦门卫视,http://183.251.61.207/PLTV/88888888/224/3221226781/index.m3u8
+厦门1,http://183.251.61.207/PLTV/88888888/224/3221226814/index.m3u8
+厦门2,http://183.251.61.207/PLTV/88888888/224/3221226777/index.m3u8
