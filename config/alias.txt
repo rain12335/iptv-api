@@ -81,10 +81,6 @@ CGTN 英語頻道,RTHK35,RTHK 35,RTHK-35
 动漫秀场,SiTV动漫秀场
 游戏风云.SiTV游戏风云
 
-爱动漫,iHOT爱动漫
-新动漫,iHOT新动漫
-爱幼教,iHOT爱幼教
-爱电竞,iHOT爱电竞
 
 电竞天堂,BesTV电竞天堂
 宝宝动画,BesTV宝宝动画
