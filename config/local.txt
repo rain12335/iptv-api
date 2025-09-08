@@ -14,3 +14,4 @@ viutv,http://bxtv.3a.ink/api.php?id=viutv
 千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 澳视澳门,http://xndhx.jydjd.top:2904/udp/224.1.100.12:11111
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
