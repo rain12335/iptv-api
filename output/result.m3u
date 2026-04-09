@@ -1,44 +1,44 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rain12335/iptv-api/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV1.png" group-title="央视频道",CCTV1
-http://114.100.195.95:4022/rtp/238.1.78.166:7200
+http://60.183.109.100:8000/udp/233.50.200.130:5140
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV2.png" group-title="央视频道",CCTV2
-http://114.100.195.95:4022/rtp/238.1.78.235:7752
+http://60.183.109.100:8000/udp/233.50.200.25:5140
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV3.png" group-title="央视频道",CCTV3
-http://114.100.195.95:4022/rtp/238.1.78.170:7232
+http://60.183.109.100:8000/udp/233.50.201.196:5140
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV4.png" group-title="央视频道",CCTV4
-http://114.100.195.95:4022/rtp/238.1.78.236:7760
+http://60.183.109.100:8000/udp/233.50.200.101:5140
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV5.png" group-title="央视频道",CCTV5
-http://114.100.195.95:4022/rtp/238.1.78.171:7240
+http://60.183.109.100:8000/udp/233.50.201.197:5140
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV5+.png" group-title="央视频道",CCTV5+
-http://114.100.195.95:4022/rtp/238.1.78.237:7768
+http://60.183.109.100:8000/udp/233.50.201.220:5140
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV6.png" group-title="央视频道",CCTV6
-http://114.100.195.95:4022/rtp/238.1.78.172:7248
+http://60.183.109.100:8000/udp/233.50.201.198:5140
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV8.png" group-title="央视频道",CCTV8
-http://114.100.195.95:4022/rtp/238.1.78.173:7256
+http://60.183.109.100:8000/udp/233.50.201.199:5140
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV9.png" group-title="央视频道",CCTV9
-http://114.100.195.95:4022/rtp/238.1.78.240:7792
+http://60.183.109.100:8000/udp/233.50.201.121:5140
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV10.png" group-title="央视频道",CCTV10
-http://114.100.195.95:4022/rtp/238.1.78.241:7800
+http://60.183.109.100:8000/udp/233.50.201.122:5140
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV11.png" group-title="央视频道",CCTV11
 http://114.100.195.95:4022/rtp/238.1.78.206:7502
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV12.png" group-title="央视频道",CCTV12
-http://114.100.195.95:4022/rtp/238.1.78.242:7808
+http://60.183.109.100:8000/udp/233.50.201.123:5140
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV13.png" group-title="央视频道",CCTV13
-http://114.100.195.95:4022/rtp/238.1.79.35:4392
+http://60.183.109.100:8000/udp/233.50.201.246:5140
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV14.png" group-title="央视频道",CCTV14
-http://114.100.195.95:4022/rtp/238.1.78.243:7816
+http://60.183.109.100:8000/udp/233.50.201.124:5140
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV15.png" group-title="央视频道",CCTV15
 http://114.100.195.95:4022/rtp/238.1.78.222:7648
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV16.png" group-title="央视频道",CCTV16
 http://60.183.109.100:8000/udp/233.50.201.192:5140
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV17.png" group-title="央视频道",CCTV17
-http://114.100.195.95:4022/rtp/238.1.78.178:7296
+http://60.183.109.100:8000/udp/233.50.200.113:5140
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV4K.png" group-title="央视频道",CCTV4K
 http://60.183.109.100:8000/udp/233.50.201.226:5140
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
-http://114.254.36.219:18888/rtp/239.3.1.213:4220
+http://115.171.216.23:4000/rtp:/225.1.1.12:4220
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
-http://114.254.36.219:18888/rtp/239.3.1.214:4220
+http://115.171.216.23:4000/rtp:/225.1.1.13:4220
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CGTN.png" group-title="央视频道",CGTN
 http://60.183.109.100:8000/udp/233.50.201.126:5140
 #EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CGTN记录.png" group-title="央视频道",CGTN记录
@@ -72,29 +72,29 @@ http://114.100.195.95:4022/rtp/238.1.79.58:4600
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/风云音乐.png" group-title="央视频道",风云音乐
 http://114.100.195.95:4022/rtp/238.1.79.64:4648
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://114.100.195.95:4022/rtp/238.1.78.160:7152
+http://60.183.109.100:8000/udp/233.50.201.103:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://114.100.195.95:4022/rtp/238.1.78.163:7176
+http://60.183.109.100:8000/udp/233.50.201.125:5140
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://114.100.195.95:4022/rtp/238.1.78.162:7168
+http://60.183.109.100:8000/udp/233.50.201.107:5140
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://114.100.195.95:4022/rtp/238.1.78.165:7192
+http://60.183.109.100:8000/udp/233.50.201.106:5140
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://114.100.195.95:4022/rtp/238.1.78.26:6136
+http://60.183.109.100:8000/udp/233.50.201.145:5140
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://114.100.195.95:4022/rtp/238.1.78.150:7072
+http://60.183.109.100:8000/udp/233.50.201.113:5140
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://114.100.195.95:4022/rtp/238.1.78.31:6176
+http://60.183.109.100:8000/udp/233.50.200.114:5140
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://114.100.195.95:4022/rtp/238.1.78.30:6168
+http://60.183.109.100:8000/udp/233.50.201.139:5140
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://114.100.195.95:4022/rtp/238.1.78.22:6104
+http://60.183.109.100:8000/udp/233.50.201.146:5140
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://114.100.195.95:4022/rtp/238.1.78.156:7120
+http://60.183.109.100:8000/udp/233.50.201.101:5140
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://114.100.195.95:4022/rtp/238.1.78.161:7160
+http://60.183.109.100:8000/udp/233.50.201.102:5140
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://114.100.195.95:4022/rtp/238.1.78.70:6432
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
@@ -102,39 +102,39 @@ http://183.251.61.207/PLTV/88888888/224/3221226781/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://114.100.195.95:4022/rtp/238.1.79.36:4400
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://114.100.195.95:4022/rtp/238.1.78.244:7824
+http://60.183.109.100:8000/udp/233.50.201.142:5140
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://114.100.195.95:4022/rtp/238.1.78.245:7832
+http://60.183.109.100:8000/udp/233.50.201.140:5140
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://114.100.195.95:4022/rtp/238.1.79.65:4632
+http://60.183.109.100:8000/udp/233.50.201.144:5140
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/海峡卫视.png" group-title="卫视频道",海峡卫视
 http://112.109.206.183:9999/rtp/239.255.40.157:8208
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://114.100.195.95:4022/rtp/238.1.78.159:7144
+http://60.183.109.100:8000/udp/233.50.201.115:5140
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://114.100.195.95:4022/rtp/238.1.78.168:7216
+http://60.183.109.100:8000/udp/233.50.201.114:5140
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://114.100.195.95:4022/rtp/238.1.79.48:4496
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://114.100.195.95:4022/rtp/238.1.78.103:6696
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://114.100.195.95:4022/rtp/238.1.78.21:6096
+http://60.183.109.100:8000/udp/233.50.201.141:5140
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://114.100.195.95:4022/rtp/238.1.78.109:6744
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
 http://114.100.195.95:4022/rtp/238.1.78.102:6688
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://114.100.195.95:4022/rtp/238.1.78.169:7224
+http://60.183.109.100:8000/udp/233.50.201.105:5140
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/山西卫视.png" group-title="卫视频道",山西卫视
 http://114.100.195.95:4022/rtp/238.1.78.95:6632
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://114.100.195.95:4022/rtp/238.1.78.20:6088
+http://60.183.109.100:8000/udp/233.50.201.104:5140
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://114.100.195.95:4022/rtp/238.1.79.49:4504
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://114.100.195.95:4022/rtp/238.1.78.110:6752
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://114.100.195.95:4022/rtp/238.1.78.89:6584
+http://60.183.109.100:8000/udp/233.50.200.115:5140
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://114.100.195.95:4022/rtp/238.1.78.101:6680
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
@@ -146,7 +146,7 @@ http://183.220.107.138:4022/rtp/239.11.0.10:5140
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://114.100.195.95:4022/rtp/238.1.78.27:6144
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/延边卫视.png" group-title="卫视频道",延边卫视
-http://220.167.170.177:4000/rtp/239.120.1.132:8354
+http://116.2.172.91:4010/rtp/232.0.0.161:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/凤凰中文.png" group-title="港台频道",凤凰中文
 http://60.183.109.100:8000/udp/233.50.202.35:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/凤凰资讯.png" group-title="港台频道",凤凰资讯
@@ -162,25 +162,25 @@ http://bxtv.3a.ink/api.php?id=fct
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/明珠台.png" group-title="港台频道",明珠台
 http://bxtv.3a.ink/api.php?id=mz
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/星空卫视.png" group-title="港台频道",星空卫视
-http://171.213.148.163:8188/udp/239.93.0.156:2193
+http://171.213.151.39:8188/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="Channel V" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/Channel V.png" group-title="港台频道",Channel V
-http://171.213.148.163:8188/udp/239.93.0.157:2194
+http://171.213.151.39:8188/udp/239.93.0.157:2194
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/中天新闻.png" group-title="港台频道",中天新闻
 http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CHC影迷电影.png" group-title="网络数字",CHC影迷电影
-http://175.8.181.59:7878/udp/239.76.252.242:9000
+http://39.77.26.138:4002/rtp/239.253.254.154:8000
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CHC动作电影.png" group-title="网络数字",CHC动作电影
-http://118.78.196.229:55555/rtp/226.0.2.94:8012
+http://59.61.209.251:4022/rtp/239.61.3.16:9616
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CHC家庭影院.png" group-title="网络数字",CHC家庭影院
-http://118.78.196.229:55555/rtp/226.0.2.240:9820
+http://39.77.26.138:4002/rtp/239.253.254.152:8000
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/睛彩竞技.png" group-title="网络数字",睛彩竞技
-http://112.109.206.183:9999/rtp/239.255.40.208:8208
+http://115.171.216.23:4000/rtp:/225.1.1.36:8001
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/睛彩篮球.png" group-title="网络数字",睛彩篮球
-http://112.109.206.183:9999/rtp/239.255.40.209:8208
+http://115.171.216.23:4000/rtp:/225.1.1.37:8001
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/睛彩青少.png" group-title="网络数字",睛彩青少
-http://112.109.206.183:9999/rtp/239.255.40.207:8208
+http://115.171.216.23:4000/rtp:/225.1.1.38:8001
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/睛彩广场舞.png" group-title="网络数字",睛彩广场舞
-http://112.109.206.183:9999/rtp/239.255.40.210:8208
+http://115.171.216.23:4000/rtp:/225.1.1.39:8001
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/重温经典.png" group-title="网络数字",重温经典
 http://115.171.216.23:4000/rtp/225.1.8.39:8002
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/求索纪录.png" group-title="网络数字",求索纪录
@@ -192,45 +192,45 @@ http://114.100.195.95:4022/rtp/238.1.79.30:4352
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/快乐垂钓.png" group-title="网络数字",快乐垂钓
 http://114.100.195.95:4022/rtp/238.1.79.31:4360
 #EXTINF:-1 tvg-name="iHOT爱喜剧" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/iHOT爱喜剧.png" group-title="网络数字",iHOT爱喜剧
-http://171.213.148.163:8188/udp/239.93.42.9:5140
+http://171.213.151.39:8188/udp/239.93.42.9:5140
 #EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/iHOT爱奇谈.png" group-title="网络数字",iHOT爱奇谈
-http://171.213.148.163:8188/udp/239.93.42.22:5140
+http://171.213.151.39:8188/udp/239.93.42.22:5140
 #EXTINF:-1 tvg-name="iHOT爱科幻" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/iHOT爱科幻.png" group-title="网络数字",iHOT爱科幻
-http://171.213.148.163:8188/udp/239.93.42.10:5140
+http://171.213.151.39:8188/udp/239.93.42.10:5140
 #EXTINF:-1 tvg-name="iHOT爱院线" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/iHOT爱院线.png" group-title="网络数字",iHOT爱院线
-http://171.213.148.163:8188/udp/239.93.42.11:5140
+http://171.213.151.39:8188/udp/239.93.42.11:5140
 #EXTINF:-1 tvg-name="iHOT爱谍战" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/iHOT爱谍战.png" group-title="网络数字",iHOT爱谍战
-http://171.213.148.163:8188/udp/239.93.42.14:5140
+http://171.213.151.39:8188/udp/239.93.42.14:5140
 #EXTINF:-1 tvg-name="iHOT爱悬疑" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/iHOT爱悬疑.png" group-title="网络数字",iHOT爱悬疑
-http://171.213.148.163:8188/udp/239.93.42.12:5140
+http://171.213.151.39:8188/udp/239.93.42.12:5140
 #EXTINF:-1 tvg-name="iHOT爱都市" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/iHOT爱都市.png" group-title="网络数字",iHOT爱都市
-http://171.213.148.163:8188/udp/239.93.42.15:5140
+http://171.213.151.39:8188/udp/239.93.42.15:5140
 #EXTINF:-1 tvg-name="iHOT爱幼教" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/iHOT爱幼教.png" group-title="网络数字",iHOT爱幼教
-http://171.213.148.163:8188/udp/239.93.42.17:5140
+http://171.213.151.39:8188/udp/239.93.42.17:5140
 #EXTINF:-1 tvg-name="iHOT爱玩具" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/iHOT爱玩具.png" group-title="网络数字",iHOT爱玩具
-http://171.213.148.163:8188/udp/239.93.42.18:5140
+http://171.213.151.39:8188/udp/239.93.42.18:5140
 #EXTINF:-1 tvg-name="iHOT爱动漫" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/iHOT爱动漫.png" group-title="网络数字",iHOT爱动漫
-http://171.213.148.163:8188/udp/239.93.42.23:5140
+http://171.213.151.39:8188/udp/239.93.42.23:5140
 #EXTINF:-1 tvg-name="iHOT爱赛车" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/iHOT爱赛车.png" group-title="网络数字",iHOT爱赛车
-http://171.213.148.163:8188/udp/239.93.42.20:5140
+http://171.213.151.39:8188/udp/239.93.42.20:5140
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/北京新闻.png" group-title="地方频道",北京新闻
-http://114.254.36.219:18888/rtp/239.3.1.159:8000
+http://115.171.216.23:4000/udp/225.1.8.83:8000
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/北京文艺.png" group-title="地方频道",北京文艺
-http://114.254.36.219:18888/rtp/239.3.1.242:8000
+http://115.171.216.23:4000/udp/225.1.8.22:8002
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/北京影视.png" group-title="地方频道",北京影视
-http://114.254.36.219:18888/rtp/239.3.1.158:8000
+http://115.171.216.23:4000/udp/225.1.8.82:8000
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/北京财经.png" group-title="地方频道",北京财经
-http://114.254.36.219:18888/rtp/239.3.1.116:8000
+http://115.171.216.23:4000/udp/225.1.8.106:8002
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/北京体育休闲.png" group-title="地方频道",北京体育休闲
-http://114.254.36.219:18888/rtp/239.3.1.243:8000
+http://115.171.216.23:4000/udp/225.1.8.23:8002
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/北京生活.png" group-title="地方频道",北京生活
-http://114.254.36.219:18888/rtp/239.3.1.117:8000
+http://115.171.216.23:4000/udp/225.1.8.108:8002
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/卡酷少儿.png" group-title="地方频道",卡酷少儿
 http://114.100.195.95:4022/rtp/238.1.78.97:6648
 #EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/欢笑剧场4K.png" group-title="地方频道",欢笑剧场4K
 http://60.183.109.100:8000/udp/233.50.200.52:5140
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/哈哈炫动.png" group-title="地方频道",哈哈炫动
-http://220.167.170.177:4000/rtp/239.120.1.140:8898
+http://111.127.156.64:51234/rtp/239.29.0.128:5000
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/海峡卫视.png" group-title="地方频道",海峡卫视
 http://112.109.206.183:9999/rtp/239.255.40.157:8208
 #EXTINF:-1 tvg-name="福建综合" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/福建综合.png" group-title="地方频道",福建综合
@@ -262,11 +262,11 @@ http://112.109.206.183:9999/rtp/239.255.40.172:8208
 #EXTINF:-1 tvg-name="漳州新闻" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/漳州新闻.png" group-title="地方频道",漳州新闻
 http://112.109.206.183:9999/rtp/239.255.40.173:8208
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV5.png" group-title="体育专区",CCTV5
-http://114.100.195.95:4022/rtp/238.1.78.171:7240
+http://60.183.109.100:8000/udp/233.50.201.197:5140
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV5+.png" group-title="体育专区",CCTV5+
-http://114.100.195.95:4022/rtp/238.1.78.237:7768
+http://60.183.109.100:8000/udp/233.50.201.220:5140
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/北京体育休闲.png" group-title="体育专区",北京体育休闲
-http://114.254.36.219:18888/rtp/239.3.1.243:8000
+http://115.171.216.23:4000/udp/225.1.8.23:8002
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/广东体育.png" group-title="体育专区",广东体育
 http://183.236.43.98:4013/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/陕西体育休闲.png" group-title="体育专区",陕西体育休闲
@@ -277,20 +277,16 @@ http://114.100.195.95:4022/rtp/238.1.79.41:4440
 http://183.236.43.98:4013/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/福建文体.png" group-title="体育专区",福建文体
 http://112.109.206.183:9999/rtp/239.255.40.155:8208
-#EXTINF:-1 tvg-name="重庆文体娱乐" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/重庆文体娱乐.png" group-title="体育专区",重庆文体娱乐
-http://119.84.198.219:7777/rtp/235.254.198.187:7980
 #EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/内蒙古文体娱乐.png" group-title="体育专区",内蒙古文体娱乐
 http://111.127.156.64:51234/rtp/239.29.0.211:5000
-#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/山西文体生活.png" group-title="体育专区",山西文体生活
-http://118.78.196.229:55555/rtp/226.0.2.16:8040
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/睛彩竞技.png" group-title="体育专区",睛彩竞技
-http://112.109.206.183:9999/rtp/239.255.40.208:8208
+http://115.171.216.23:4000/rtp:/225.1.1.36:8001
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/睛彩篮球.png" group-title="体育专区",睛彩篮球
-http://112.109.206.183:9999/rtp/239.255.40.209:8208
+http://115.171.216.23:4000/rtp:/225.1.1.37:8001
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/睛彩青少.png" group-title="体育专区",睛彩青少
-http://112.109.206.183:9999/rtp/239.255.40.207:8208
+http://115.171.216.23:4000/rtp:/225.1.1.38:8001
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/睛彩广场舞.png" group-title="体育专区",睛彩广场舞
-http://112.109.206.183:9999/rtp/239.255.40.210:8208
+http://115.171.216.23:4000/rtp:/225.1.1.39:8001
 #EXTINF:-1 tvg-name="咪咕体育直播1" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/咪咕体育直播1.png" group-title="体育专区",咪咕体育直播1
 http://183.220.107.138:4022/rtp/239.10.0.232:5140
 #EXTINF:-1 tvg-name="咪咕体育直播2" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/咪咕体育直播2.png" group-title="体育专区",咪咕体育直播2
@@ -324,10 +320,10 @@ http://60.183.109.100:8000/udp/233.50.202.102:5140
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/爱上4K.png" group-title="4K专区",爱上4K
 http://114.254.36.219:18888/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="绚影4K" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/绚影4K.png" group-title="4K专区",绚影4K
-http://171.213.148.163:8188/udp/239.93.42.33:5140
+http://171.213.151.39:8188/udp/239.93.42.33:5140
 #EXTINF:-1 tvg-name="中录动漫4K" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/中录动漫4K.png" group-title="4K专区",中录动漫4K
-http://171.213.148.163:8188/udp/239.93.1.188:5140
+http://171.213.151.39:8188/udp/239.93.1.188:5140
 #EXTINF:-1 tvg-name="亲子趣学4K" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/亲子趣学4K.png" group-title="4K专区",亲子趣学4K
-http://171.213.148.163:8188/udp/239.93.1.191:5140
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-09 19:05:03
-http://114.100.195.95:4022/rtp/238.1.78.166:7200
+http://171.213.151.39:8188/udp/239.93.1.191:5140
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-10 06:50:22
+http://60.183.109.100:8000/udp/233.50.200.130:5140
