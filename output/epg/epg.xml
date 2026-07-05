@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260704230213 +0800">
+<tv date="20260705113850 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -8466,20 +8466,20 @@
 	<programme channel="CGTN法语" start="20260704230000 +0800" stop="20260704233000 +0800">
 		<title lang="zh">美食大搜索</title>
 	</programme>
-	<programme channel="CGTN法语" start="20260704233000 +0800" stop="20260705001500 +0800">
+	<programme channel="CGTN法语" start="20260704233000 +0800" stop="20260705000000 +0800">
 		<title lang="zh">纪录片</title>
 	</programme>
+	<programme channel="CGTN法语" start="20260705000000 +0800" stop="20260705001500 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
 	<programme channel="CGTN法语" start="20260705001500 +0800" stop="20260705010000 +0800">
-		<title lang="zh">剧场</title>
+		<title lang="zh">觉醒年代（第8集）</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705010000 +0800" stop="20260705014500 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="CGTN法语" start="20260705010000 +0800" stop="20260705014500 +0800">
-		<title lang="zh">剧场</title>
+		<title lang="zh">觉醒年代（第9集）</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705014500 +0800" stop="20260705023000 +0800">
-		<title lang="zh">味道</title>
+		<title lang="zh">味道(法)</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705023000 +0800" stop="20260705030000 +0800">
 		<title lang="zh">纪事东八区</title>
@@ -8491,13 +8491,13 @@
 		<title lang="zh">五洲瞭望</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705043000 +0800" stop="20260705051500 +0800">
-		<title lang="zh">剧场</title>
+		<title lang="zh">觉醒年代（第10集）</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705051500 +0800" stop="20260705060000 +0800">
-		<title lang="zh">剧场</title>
+		<title lang="zh">觉醒年代（第11集）</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705060000 +0800" stop="20260705064500 +0800">
-		<title lang="zh">纪录片</title>
+		<title lang="zh">魅力东方</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705064500 +0800" stop="20260705071500 +0800">
 		<title lang="zh">巴黎会客厅</title>
@@ -8506,7 +8506,7 @@
 		<title lang="zh">五洲瞭望</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705074500 +0800" stop="20260705083000 +0800">
-		<title lang="zh">开讲啦</title>
+		<title lang="zh">开讲啦(法)</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705083000 +0800" stop="20260705090000 +0800">
 		<title lang="zh">纪事东八区</title>
@@ -8518,31 +8518,31 @@
 		<title lang="zh">巴黎会客厅</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705103000 +0800" stop="20260705111500 +0800">
-		<title lang="zh">剧场</title>
+		<title lang="zh">觉醒年代（第10集）</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705111500 +0800" stop="20260705120000 +0800">
-		<title lang="zh">剧场</title>
+		<title lang="zh">觉醒年代（第11集）</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705120000 +0800" stop="20260705130000 +0800">
 		<title lang="zh">中国全视角</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705130000 +0800" stop="20260705133000 +0800">
-		<title lang="zh">综合新闻</title>
+		<title lang="zh">综合新闻(法)</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705133000 +0800" stop="20260705141500 +0800">
-		<title lang="zh">纪录片</title>
+		<title lang="zh">魅力东方</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705141500 +0800" stop="20260705150000 +0800">
-		<title lang="zh">开讲啦</title>
+		<title lang="zh">开讲啦(法)</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705150000 +0800" stop="20260705153000 +0800">
-		<title lang="zh">综合新闻</title>
+		<title lang="zh">综合新闻(法)</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705153000 +0800" stop="20260705160000 +0800">
 		<title lang="zh">纪事东八区</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705160000 +0800" stop="20260705163000 +0800">
-		<title lang="zh">财经时间</title>
+		<title lang="zh">财经时间(法)</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705163000 +0800" stop="20260705170000 +0800">
 		<title lang="zh">五洲瞭望</title>
@@ -8551,28 +8551,28 @@
 		<title lang="zh">巴黎会客厅</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705173000 +0800" stop="20260705181500 +0800">
-		<title lang="zh">剧场</title>
+		<title lang="zh">觉醒年代（第10集）</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705181500 +0800" stop="20260705190000 +0800">
-		<title lang="zh">剧场</title>
+		<title lang="zh">觉醒年代（第11集）</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705190000 +0800" stop="20260705193000 +0800">
-		<title lang="zh">综合新闻</title>
+		<title lang="zh">综合新闻(法)</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705193000 +0800" stop="20260705200000 +0800">
 		<title lang="zh">纪事东八区</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705200000 +0800" stop="20260705203000 +0800">
-		<title lang="zh">非洲新闻联播</title>
+		<title lang="zh">非洲新闻联播(法)</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705203000 +0800" stop="20260705211500 +0800">
-		<title lang="zh">纪录片</title>
+		<title lang="zh">魅力东方</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705211500 +0800" stop="20260705220000 +0800">
-		<title lang="zh">开讲啦</title>
+		<title lang="zh">开讲啦(法)</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705220000 +0800" stop="20260705223000 +0800">
-		<title lang="zh">综合新闻</title>
+		<title lang="zh">综合新闻(法)</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260705223000 +0800" stop="20260705230000 +0800">
 		<title lang="zh">巴黎会客厅</title>
@@ -8580,13 +8580,13 @@
 	<programme channel="CGTN法语" start="20260705230000 +0800" stop="20260705233000 +0800">
 		<title lang="zh">五洲瞭望</title>
 	</programme>
-	<programme channel="CGTN法语" start="20260705233000 +0800" stop="20260706001500 +0800">
+	<programme channel="CGTN法语" start="20260705233000 +0800" stop="20260705235900 +0800">
+		<title lang="zh">魅力东方</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260706000000 +0800" stop="20260706001500 +0800">
 		<title lang="zh">纪录片</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260706001500 +0800" stop="20260706010000 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="CGTN法语" start="20260706010000 +0800" stop="20260706014500 +0800">
 		<title lang="zh">剧场</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260706010000 +0800" stop="20260706014500 +0800">
@@ -11716,169 +11716,127 @@
 		<title lang="zh">普陀航拍</title>
 	</programme>
 	<programme channel="乐游" start="20260705000000 +0800" stop="20260705002400 +0800">
-		<title lang="zh">指尖上的传承:玉雕</title>
+		<title lang="zh">指尖上的传承玉雕</title>
 	</programme>
 	<programme channel="乐游" start="20260705002400 +0800" stop="20260705002900 +0800">
-		<title lang="zh">非遗新体验:蔡同德中药煎膏技艺</title>
+		<title lang="zh">非遗新体验蔡同德中药煎膏技艺</title>
 	</programme>
 	<programme channel="乐游" start="20260705002900 +0800" stop="20260705005200 +0800">
 		<title lang="zh">极限冰岛(6)</title>
 	</programme>
-	<programme channel="乐游" start="20260705005200 +0800" stop="20260705011500 +0800">
-		<title lang="zh">味道中山(3):早餐诱惑</title>
-	</programme>
-	<programme channel="乐游" start="20260705011500 +0800" stop="20260705011800 +0800">
-		<title lang="zh">一碗人间烟火(52):临沂炒鸡</title>
+	<programme channel="乐游" start="20260705005200 +0800" stop="20260705011800 +0800">
+		<title lang="zh">味道中山(3)早餐诱惑</title>
 	</programme>
 	<programme channel="乐游" start="20260705011800 +0800" stop="20260705012300 +0800">
-		<title lang="zh">乐游上海:我的黄浦攻略</title>
+		<title lang="zh">乐游上海我的黄浦攻略</title>
 	</programme>
 	<programme channel="乐游" start="20260705012300 +0800" stop="20260705013100 +0800">
-		<title lang="zh">上博匠心(2):古籍修复技艺</title>
+		<title lang="zh">上博匠心(2)古籍修复技艺</title>
 	</programme>
-	<programme channel="乐游" start="20260705012300 +0800" stop="20260705013100 +0800">
-		<title lang="zh">上博匠心(2):古籍修复技艺</title>
+	<programme channel="乐游" start="20260705013100 +0800" stop="20260705015700 +0800">
+		<title lang="zh">味道中山(4)季节味道</title>
 	</programme>
-	<programme channel="乐游" start="20260705013100 +0800" stop="20260705015400 +0800">
-		<title lang="zh">味道中山(4):季节味道</title>
+	<programme channel="乐游" start="20260705015700 +0800" stop="20260705023100 +0800">
+		<title lang="zh">城市烟火(3)无辣不欢</title>
 	</programme>
-	<programme channel="乐游" start="20260705015400 +0800" stop="20260705015700 +0800">
-		<title lang="zh">一碗人间烟火(53):响油鳝丝</title>
-	</programme>
-	<programme channel="乐游" start="20260705015700 +0800" stop="20260705022500 +0800">
-		<title lang="zh">城市烟火(3):无辣不欢</title>
-	</programme>
-	<programme channel="乐游" start="20260705022500 +0800" stop="20260705022700 +0800">
-		<title lang="zh">一碗人间烟火(54):绿波廊锦鲤饺</title>
-	</programme>
-	<programme channel="乐游" start="20260705022700 +0800" stop="20260705023100 +0800">
-		<title lang="zh">漫步上海(6):思南公馆</title>
-	</programme>
-	<programme channel="乐游" start="20260705023100 +0800" stop="20260705025600 +0800">
-		<title lang="zh">指尖上的传承:歙砚</title>
-	</programme>
-	<programme channel="乐游" start="20260705025600 +0800" stop="20260705030000 +0800">
-		<title lang="zh">非遗新体验:中医药香品调制技艺</title>
+	<programme channel="乐游" start="20260705023100 +0800" stop="20260705030000 +0800">
+		<title lang="zh">指尖上的传承歙砚</title>
 	</programme>
 	<programme channel="乐游" start="20260705030000 +0800" stop="20260705032400 +0800">
-		<title lang="zh">美丽乡村(4):水之乡</title>
+		<title lang="zh">美丽乡村(4)水之乡</title>
 	</programme>
 	<programme channel="乐游" start="20260705032400 +0800" stop="20260705035300 +0800">
-		<title lang="zh">历史现场:巴蜀石刻</title>
+		<title lang="zh">历史现场巴蜀石刻</title>
 	</programme>
-	<programme channel="乐游" start="20260705035300 +0800" stop="20260705040100 +0800">
-		<title lang="zh">上博匠心(3):古陶瓷修复技艺</title>
+	<programme channel="乐游" start="20260705035300 +0800" stop="20260705040000 +0800">
+		<title lang="zh">上博匠心(3)古陶瓷修复技艺</title>
+	</programme>
+	<programme channel="乐游" start="20260705040000 +0800" stop="20260705040100 +0800">
+		<title lang="zh">上博匠心(3)古陶瓷修复技艺</title>
 	</programme>
 	<programme channel="乐游" start="20260705040100 +0800" stop="20260705042400 +0800">
 		<title lang="zh">极限冰岛(1)</title>
 	</programme>
-	<programme channel="乐游" start="20260705042400 +0800" stop="20260705044800 +0800">
-		<title lang="zh">味道中山(5):天地农家</title>
-	</programme>
-	<programme channel="乐游" start="20260705044800 +0800" stop="20260705045000 +0800">
-		<title lang="zh">一碗人间烟火(55):杨梅圆子</title>
+	<programme channel="乐游" start="20260705042400 +0800" stop="20260705045000 +0800">
+		<title lang="zh">味道中山(5)天地农家</title>
 	</programme>
 	<programme channel="乐游" start="20260705045000 +0800" stop="20260705051600 +0800">
-		<title lang="zh">城市烟火(4):品味中西</title>
+		<title lang="zh">城市烟火(4)品味中西</title>
 	</programme>
-	<programme channel="乐游" start="20260705051600 +0800" stop="20260705054100 +0800">
-		<title lang="zh">指尖上的传承:苏绣</title>
-	</programme>
-	<programme channel="乐游" start="20260705054100 +0800" stop="20260705054500 +0800">
-		<title lang="zh">非遗新体验(7):海派盘扣</title>
+	<programme channel="乐游" start="20260705051600 +0800" stop="20260705054500 +0800">
+		<title lang="zh">指尖上的传承苏绣</title>
 	</programme>
 	<programme channel="乐游" start="20260705054500 +0800" stop="20260705060900 +0800">
-		<title lang="zh">美丽乡村(5):云之南</title>
+		<title lang="zh">美丽乡村(5)云之南</title>
 	</programme>
 	<programme channel="乐游" start="20260705060900 +0800" stop="20260705064200 +0800">
-		<title lang="zh">历史现场:松江城市露天博物馆</title>
+		<title lang="zh">历史现场松江城市露天博物馆</title>
 	</programme>
 	<programme channel="乐游" start="20260705064200 +0800" stop="20260705065000 +0800">
-		<title lang="zh">上博匠心:青铜器修复及复制技艺</title>
+		<title lang="zh">上博匠心青铜器修复及复制技艺</title>
 	</programme>
 	<programme channel="乐游" start="20260705065000 +0800" stop="20260705071300 +0800">
 		<title lang="zh">极限冰岛(2)</title>
 	</programme>
-	<programme channel="乐游" start="20260705071300 +0800" stop="20260705073600 +0800">
-		<title lang="zh">味道中山(6):鱼米之乡</title>
+	<programme channel="乐游" start="20260705071300 +0800" stop="20260705073900 +0800">
+		<title lang="zh">味道中山(6)鱼米之乡</title>
 	</programme>
-	<programme channel="乐游" start="20260705073600 +0800" stop="20260705073900 +0800">
-		<title lang="zh">一碗人间烟火(57):红霞贝皇银丝</title>
+	<programme channel="乐游" start="20260705073900 +0800" stop="20260705080000 +0800">
+		<title lang="zh">城市烟火(5)一日之始</title>
 	</programme>
-	<programme channel="乐游" start="20260705073900 +0800" stop="20260705080600 +0800">
-		<title lang="zh">城市烟火(5):一日之始</title>
-	</programme>
-	<programme channel="乐游" start="20260705080600 +0800" stop="20260705080900 +0800">
-		<title lang="zh">漫步上海(8):新天地</title>
-	</programme>
-	<programme channel="乐游" start="20260705080900 +0800" stop="20260705081100 +0800">
-		<title lang="zh">一碗人间烟火(58):张泽红烧羊肉</title>
-	</programme>
-	<programme channel="乐游" start="20260705081100 +0800" stop="20260705081500 +0800">
-		<title lang="zh">非遗新体验(8):梅龙镇酒家</title>
+	<programme channel="乐游" start="20260705080000 +0800" stop="20260705081500 +0800">
+		<title lang="zh">城市烟火(5)一日之始</title>
 	</programme>
 	<programme channel="乐游" start="20260705081500 +0800" stop="20260705084200 +0800">
-		<title lang="zh">历史现场:浙闽廊桥</title>
+		<title lang="zh">历史现场浙闽廊桥</title>
 	</programme>
 	<programme channel="乐游" start="20260705084200 +0800" stop="20260705084900 +0800">
-		<title lang="zh">上博匠心(5):古代家具修复技艺</title>
+		<title lang="zh">上博匠心(5)古代家具修复技艺</title>
 	</programme>
-	<programme channel="乐游" start="20260705084900 +0800" stop="20260705090400 +0800">
+	<programme channel="乐游" start="20260705084900 +0800" stop="20260705090800 +0800">
 		<title lang="zh">寻找目的地</title>
-	</programme>
-	<programme channel="乐游" start="20260705090400 +0800" stop="20260705090800 +0800">
-		<title lang="zh">乐游上海</title>
 	</programme>
 	<programme channel="乐游" start="20260705090800 +0800" stop="20260705093200 +0800">
 		<title lang="zh">寻找目的地</title>
 	</programme>
-	<programme channel="乐游" start="20260705093200 +0800" stop="20260705102500 +0800">
+	<programme channel="乐游" start="20260705093200 +0800" stop="20260705102700 +0800">
 		<title lang="zh">东购南美洲深度南极半岛登岛游</title>
 	</programme>
-	<programme channel="乐游" start="20260705102500 +0800" stop="20260705102700 +0800">
-		<title lang="zh">一碗人间烟火(59):芹黄鹌鹑丝</title>
-	</programme>
-	<programme channel="乐游" start="20260705102700 +0800" stop="20260705105400 +0800">
-		<title lang="zh">千年陕菜(1):九鼎之味</title>
-	</programme>
-	<programme channel="乐游" start="20260705105400 +0800" stop="20260705105600 +0800">
-		<title lang="zh">非遗新体验(9):上海皮影</title>
-	</programme>
-	<programme channel="乐游" start="20260705105600 +0800" stop="20260705105900 +0800">
-		<title lang="zh">乐游临港:年轻人的城</title>
+	<programme channel="乐游" start="20260705102700 +0800" stop="20260705105900 +0800">
+		<title lang="zh">千年陕菜(1)九鼎之味</title>
 	</programme>
 	<programme channel="乐游" start="20260705105900 +0800" stop="20260705113900 +0800">
 		<title lang="zh">金色营养课</title>
 	</programme>
 	<programme channel="乐游" start="20260705113900 +0800" stop="20260705115400 +0800">
-		<title lang="zh">历史现场:应县木塔</title>
+		<title lang="zh">历史现场应县木塔</title>
 	</programme>
 	<programme channel="乐游" start="20260705115400 +0800" stop="20260705121100 +0800">
 		<title lang="zh">走进广富林</title>
 	</programme>
 	<programme channel="乐游" start="20260705121100 +0800" stop="20260705121800 +0800">
-		<title lang="zh">上博匠心(6):古书画装裱修复技艺</title>
+		<title lang="zh">上博匠心(6)古书画装裱修复技艺</title>
 	</programme>
 	<programme channel="乐游" start="20260705121800 +0800" stop="20260705123900 +0800">
-		<title lang="zh">寻找目的地:桂越双城记4号</title>
+		<title lang="zh">寻找目的地桂越双城记4号</title>
 	</programme>
 	<programme channel="乐游" start="20260705123900 +0800" stop="20260705125500 +0800">
 		<title lang="zh">寻找目的地</title>
 	</programme>
 	<programme channel="乐游" start="20260705125500 +0800" stop="20260705132200 +0800">
-		<title lang="zh">千年陕菜(2):妙造自然</title>
+		<title lang="zh">千年陕菜(2)妙造自然</title>
 	</programme>
 	<programme channel="乐游" start="20260705132200 +0800" stop="20260705135000 +0800">
-		<title lang="zh">城市烟火(7):人生一串</title>
+		<title lang="zh">城市烟火(7)人生一串</title>
 	</programme>
 	<programme channel="乐游" start="20260705135000 +0800" stop="20260705141000 +0800">
-		<title lang="zh">寻找目的地:魅力南欧阳光西葡2号</title>
+		<title lang="zh">寻找目的地魅力南欧阳光西葡2号</title>
 	</programme>
 	<programme channel="乐游" start="20260705141000 +0800" stop="20260705143500 +0800">
 		<title lang="zh">寻找目的地</title>
 	</programme>
 	<programme channel="乐游" start="20260705143500 +0800" stop="20260705150000 +0800">
-		<title lang="zh">行走的图腾(1):远古回声</title>
+		<title lang="zh">行走的图腾(1)远古回声</title>
 	</programme>
 	<programme channel="乐游" start="20260705150000 +0800" stop="20260705154000 +0800">
 		<title lang="zh">金色营养课</title>
@@ -11893,331 +11851,226 @@
 		<title lang="zh">寻找目的地</title>
 	</programme>
 	<programme channel="乐游" start="20260705164700 +0800" stop="20260705171200 +0800">
-		<title lang="zh">城市烟火(8):吉羊之美</title>
+		<title lang="zh">城市烟火(8)吉羊之美</title>
 	</programme>
 	<programme channel="乐游" start="20260705171200 +0800" stop="20260705173700 +0800">
-		<title lang="zh">指尖上的传承:玉雕</title>
+		<title lang="zh">指尖上的传承玉雕</title>
 	</programme>
 	<programme channel="乐游" start="20260705173700 +0800" stop="20260705180100 +0800">
-		<title lang="zh">美丽乡村(9):江之畔</title>
+		<title lang="zh">美丽乡村(9)江之畔</title>
 	</programme>
 	<programme channel="乐游" start="20260705180100 +0800" stop="20260705182500 +0800">
-		<title lang="zh">行走的图腾(2):手作天下</title>
+		<title lang="zh">行走的图腾(2)手作天下</title>
 	</programme>
 	<programme channel="乐游" start="20260705182500 +0800" stop="20260705183200 +0800">
-		<title lang="zh">国宝里的新疆Ⅰ:美人的闲情逸致</title>
+		<title lang="zh">国宝里的新疆Ⅰ美人的闲情逸致</title>
 	</programme>
 	<programme channel="乐游" start="20260705183200 +0800" stop="20260705185400 +0800">
 		<title lang="zh">极限冰岛(6)</title>
 	</programme>
 	<programme channel="乐游" start="20260705185400 +0800" stop="20260705192000 +0800">
-		<title lang="zh">千年陕菜(4):三秦五味</title>
+		<title lang="zh">千年陕菜(4)三秦五味</title>
 	</programme>
 	<programme channel="乐游" start="20260705192000 +0800" stop="20260705200000 +0800">
 		<title lang="zh">金色营养课</title>
 	</programme>
-	<programme channel="乐游" start="20260705200000 +0800" stop="20260705205000 +0800">
+	<programme channel="乐游" start="20260705200000 +0800" stop="20260705205700 +0800">
 		<title lang="zh">东购加拿大东西海岸8大名城</title>
 	</programme>
-	<programme channel="乐游" start="20260705205000 +0800" stop="20260705205400 +0800">
-		<title lang="zh">非遗新体验:海派徽菜烹饪技艺</title>
-	</programme>
-	<programme channel="乐游" start="20260705205400 +0800" stop="20260705205700 +0800">
-		<title lang="zh">乐游上海:书香文化淮海路</title>
-	</programme>
 	<programme channel="乐游" start="20260705205700 +0800" stop="20260705212200 +0800">
-		<title lang="zh">行走的图腾(3):灵感之源</title>
+		<title lang="zh">行走的图腾(3)灵感之源</title>
 	</programme>
 	<programme channel="乐游" start="20260705212200 +0800" stop="20260705212800 +0800">
 		<title lang="zh">国宝里的新疆Ⅰ(4)</title>
 	</programme>
-	<programme channel="乐游" start="20260705212800 +0800" stop="20260705214800 +0800">
-		<title lang="zh">寻找目的地:澳大利亚东海岸</title>
-	</programme>
-	<programme channel="乐游" start="20260705214800 +0800" stop="20260705215200 +0800">
-		<title lang="zh">乐游上海:黄浦纳凉地限定体验</title>
+	<programme channel="乐游" start="20260705212800 +0800" stop="20260705215200 +0800">
+		<title lang="zh">寻找目的地澳大利亚东海岸</title>
 	</programme>
 	<programme channel="乐游" start="20260705215200 +0800" stop="20260705220800 +0800">
 		<title lang="zh">寻找目的地</title>
 	</programme>
-	<programme channel="乐游" start="20260705220800 +0800" stop="20260705222900 +0800">
+	<programme channel="乐游" start="20260705220800 +0800" stop="20260705223100 +0800">
 		<title lang="zh">极限冰岛(7)</title>
 	</programme>
-	<programme channel="乐游" start="20260705222900 +0800" stop="20260705223100 +0800">
-		<title lang="zh">一碗人间烟火(2):红烧羊肉</title>
-	</programme>
-	<programme channel="乐游" start="20260705223100 +0800" stop="20260705225700 +0800">
-		<title lang="zh">城市烟火(9):盐之有物</title>
-	</programme>
-	<programme channel="乐游" start="20260705225700 +0800" stop="20260705225800 +0800">
-		<title lang="zh">一碗人间烟火(3):油爆虾</title>
+	<programme channel="乐游" start="20260705223100 +0800" stop="20260705225800 +0800">
+		<title lang="zh">城市烟火(9)盐之有物</title>
 	</programme>
 	<programme channel="乐游" start="20260705225800 +0800" stop="20260705230400 +0800">
-		<title lang="zh">乐游上海:外滩源美丰大楼</title>
+		<title lang="zh">乐游上海外滩源美丰大楼</title>
 	</programme>
 	<programme channel="乐游" start="20260705230400 +0800" stop="20260705232700 +0800">
-		<title lang="zh">美丽乡村(10):人之初</title>
+		<title lang="zh">美丽乡村(10)人之初</title>
 	</programme>
 	<programme channel="乐游" start="20260705232700 +0800" stop="20260705235200 +0800">
-		<title lang="zh">行走的图腾(3):灵感之源</title>
+		<title lang="zh">行走的图腾(3)灵感之源</title>
 	</programme>
-	<programme channel="乐游" start="20260705235200 +0800" stop="20260706000000 +0800">
+	<programme channel="乐游" start="20260705235200 +0800" stop="20260705235900 +0800">
 		<title lang="zh">国宝里的新疆Ⅰ(4)</title>
 	</programme>
 	<programme channel="乐游" start="20260706000000 +0800" stop="20260706002400 +0800">
-		<title lang="zh">指尖上的传承:金漆木雕</title>
+		<title lang="zh">指尖上的传承:玉雕</title>
 	</programme>
-	<programme channel="乐游" start="20260706002400 +0800" stop="20260706002800 +0800">
-		<title lang="zh">非遗新体验:海派徽菜烹饪技艺</title>
+	<programme channel="乐游" start="20260706002400 +0800" stop="20260706002900 +0800">
+		<title lang="zh">非遗新体验:蔡同德中药煎膏技艺</title>
 	</programme>
-	<programme channel="乐游" start="20260706002800 +0800" stop="20260706003200 +0800">
-		<title lang="zh">乐游上海:书香文化淮海路</title>
-	</programme>
-	<programme channel="乐游" start="20260706003200 +0800" stop="20260706005300 +0800">
-		<title lang="zh">极限冰岛(7)</title>
-	</programme>
-	<programme channel="乐游" start="20260706005300 +0800" stop="20260706011700 +0800">
-		<title lang="zh">味道中山(4):季节味道</title>
-	</programme>
-	<programme channel="乐游" start="20260706011700 +0800" stop="20260706012400 +0800">
-		<title lang="zh">上博匠心(3):古陶瓷修复技艺</title>
-	</programme>
-	<programme channel="乐游" start="20260706012400 +0800" stop="20260706013300 +0800">
-		<title lang="zh">乐游上海:对话苏州河</title>
-	</programme>
-	<programme channel="乐游" start="20260706012400 +0800" stop="20260706013300 +0800">
-		<title lang="zh">乐游上海:对话苏州河</title>
-	</programme>
-	<programme channel="乐游" start="20260706013300 +0800" stop="20260706015700 +0800">
-		<title lang="zh">味道中山(5):天地农家</title>
-	</programme>
-	<programme channel="乐游" start="20260706015700 +0800" stop="20260706015900 +0800">
-		<title lang="zh">一碗人间烟火(55):杨梅圆子</title>
-	</programme>
-	<programme channel="乐游" start="20260706015900 +0800" stop="20260706022500 +0800">
-		<title lang="zh">城市烟火(4):品味中西</title>
-	</programme>
-	<programme channel="乐游" start="20260706022500 +0800" stop="20260706022800 +0800">
-		<title lang="zh">一碗人间烟火(56):开水白菜</title>
-	</programme>
-	<programme channel="乐游" start="20260706022800 +0800" stop="20260706023100 +0800">
-		<title lang="zh">漫步上海(7):上海犹太难民纪念馆</title>
-	</programme>
-	<programme channel="乐游" start="20260706023100 +0800" stop="20260706025600 +0800">
-		<title lang="zh">指尖上的传承:苏绣</title>
-	</programme>
-	<programme channel="乐游" start="20260706025600 +0800" stop="20260706030000 +0800">
-		<title lang="zh">非遗新体验(7):海派盘扣</title>
-	</programme>
-	<programme channel="乐游" start="20260706030000 +0800" stop="20260706032400 +0800">
-		<title lang="zh">美丽乡村(5):云之南</title>
-	</programme>
-	<programme channel="乐游" start="20260706032400 +0800" stop="20260706035800 +0800">
-		<title lang="zh">历史现场:松江城市露天博物馆</title>
-	</programme>
-	<programme channel="乐游" start="20260706035800 +0800" stop="20260706040600 +0800">
-		<title lang="zh">上博匠心:青铜器修复及复制技艺</title>
-	</programme>
-	<programme channel="乐游" start="20260706040600 +0800" stop="20260706042900 +0800">
-		<title lang="zh">极限冰岛(2)</title>
-	</programme>
-	<programme channel="乐游" start="20260706042900 +0800" stop="20260706045100 +0800">
-		<title lang="zh">味道中山(6):鱼米之乡</title>
-	</programme>
-	<programme channel="乐游" start="20260706045100 +0800" stop="20260706045500 +0800">
-		<title lang="zh">一碗人间烟火(57):红霞贝皇银丝</title>
-	</programme>
-	<programme channel="乐游" start="20260706045500 +0800" stop="20260706052100 +0800">
-		<title lang="zh">城市烟火(5):一日之始</title>
-	</programme>
-	<programme channel="乐游" start="20260706052100 +0800" stop="20260706052400 +0800">
-		<title lang="zh">漫步上海(8):新天地</title>
-	</programme>
-	<programme channel="乐游" start="20260706052400 +0800" stop="20260706052800 +0800">
-		<title lang="zh">一碗人间烟火(58):张泽红烧羊肉</title>
-	</programme>
-	<programme channel="乐游" start="20260706052800 +0800" stop="20260706055200 +0800">
-		<title lang="zh">指尖上的传承:长白仙草</title>
-	</programme>
-	<programme channel="乐游" start="20260706055200 +0800" stop="20260706055600 +0800">
-		<title lang="zh">非遗新体验(8):梅龙镇酒家</title>
-	</programme>
-	<programme channel="乐游" start="20260706055600 +0800" stop="20260706060000 +0800">
-		<title lang="zh">乐游上海:黄浦纳凉地限定体验</title>
-	</programme>
-	<programme channel="乐游" start="20260706060000 +0800" stop="20260706062400 +0800">
-		<title lang="zh">美丽乡村(6):关之北</title>
-	</programme>
-	<programme channel="乐游" start="20260706062400 +0800" stop="20260706065100 +0800">
-		<title lang="zh">历史现场:浙闽廊桥</title>
-	</programme>
-	<programme channel="乐游" start="20260706065100 +0800" stop="20260706065800 +0800">
-		<title lang="zh">上博匠心(5):古代家具修复技艺</title>
-	</programme>
-	<programme channel="乐游" start="20260706065800 +0800" stop="20260706070300 +0800">
-		<title lang="zh">乐游上海</title>
-	</programme>
-	<programme channel="乐游" start="20260706070300 +0800" stop="20260706072500 +0800">
-		<title lang="zh">极限冰岛(3)</title>
-	</programme>
-	<programme channel="乐游" start="20260706072500 +0800" stop="20260706075100 +0800">
-		<title lang="zh">千年陕菜(1):九鼎之味</title>
-	</programme>
-	<programme channel="乐游" start="20260706075100 +0800" stop="20260706075300 +0800">
-		<title lang="zh">一碗人间烟火(59):芹黄鹌鹑丝</title>
-	</programme>
-	<programme channel="乐游" start="20260706075300 +0800" stop="20260706082100 +0800">
-		<title lang="zh">城市烟火(6):对月围炉</title>
-	</programme>
-	<programme channel="乐游" start="20260706082100 +0800" stop="20260706084600 +0800">
-		<title lang="zh">指尖上的传承:侗族大歌</title>
-	</programme>
-	<programme channel="乐游" start="20260706084600 +0800" stop="20260706084800 +0800">
-		<title lang="zh">非遗新体验(9):上海皮影</title>
-	</programme>
-	<programme channel="乐游" start="20260706084800 +0800" stop="20260706090800 +0800">
-		<title lang="zh">寻找目的地</title>
-	</programme>
-	<programme channel="乐游" start="20260706090800 +0800" stop="20260706093000 +0800">
-		<title lang="zh">寻找目的地</title>
-	</programme>
-	<programme channel="乐游" start="20260706093000 +0800" stop="20260706102000 +0800">
-		<title lang="zh">东购寻仙梵净探秘醉美贵州7天6晚</title>
-	</programme>
-	<programme channel="乐游" start="20260706102000 +0800" stop="20260706102900 +0800">
-		<title lang="zh">上博匠心(6):古书画装裱修复技艺</title>
-	</programme>
-	<programme channel="乐游" start="20260706102900 +0800" stop="20260706105600 +0800">
-		<title lang="zh">千年陕菜(2):妙造自然</title>
-	</programme>
-	<programme channel="乐游" start="20260706105600 +0800" stop="20260706110000 +0800">
-		<title lang="zh">乐游上海</title>
-	</programme>
-	<programme channel="乐游" start="20260706110000 +0800" stop="20260706114000 +0800">
-		<title lang="zh">金色营养课</title>
-	</programme>
-	<programme channel="乐游" start="20260706114000 +0800" stop="20260706120800 +0800">
-		<title lang="zh">城市烟火(7):人生一串</title>
-	</programme>
-	<programme channel="乐游" start="20260706120800 +0800" stop="20260706121000 +0800">
-		<title lang="zh">一碗人间烟火(62):一合酥</title>
-	</programme>
-	<programme channel="乐游" start="20260706121000 +0800" stop="20260706123500 +0800">
-		<title lang="zh">行走的图腾(1):远古回声</title>
-	</programme>
-	<programme channel="乐游" start="20260706123500 +0800" stop="20260706125400 +0800">
-		<title lang="zh">寻找目的地:桂越双城记4号</title>
-	</programme>
-	<programme channel="乐游" start="20260706125400 +0800" stop="20260706130200 +0800">
-		<title lang="zh">国宝里的新疆Ⅰ(1):好吃吗</title>
-	</programme>
-	<programme channel="乐游" start="20260706130200 +0800" stop="20260706132100 +0800">
-		<title lang="zh">寻找目的地</title>
-	</programme>
-	<programme channel="乐游" start="20260706132100 +0800" stop="20260706134700 +0800">
-		<title lang="zh">千年陕菜(3):面里乾坤</title>
-	</programme>
-	<programme channel="乐游" start="20260706134700 +0800" stop="20260706134800 +0800">
-		<title lang="zh">一碗人间烟火(63):阿六汤圆</title>
-	</programme>
-	<programme channel="乐游" start="20260706134800 +0800" stop="20260706141300 +0800">
-		<title lang="zh">城市烟火(8):吉羊之美</title>
-	</programme>
-	<programme channel="乐游" start="20260706141300 +0800" stop="20260706142900 +0800">
-		<title lang="zh">寻找目的地</title>
-	</programme>
-	<programme channel="乐游" start="20260706142900 +0800" stop="20260706143100 +0800">
-		<title lang="zh">一碗人间烟火(1):葫芦酥</title>
-	</programme>
-	<programme channel="乐游" start="20260706143100 +0800" stop="20260706144900 +0800">
-		<title lang="zh">寻找目的地:山水画卷多彩贵州6号</title>
-	</programme>
-	<programme channel="乐游" start="20260706144900 +0800" stop="20260706145800 +0800">
-		<title lang="zh">国宝里的新疆Ⅰ:美人的闲情逸致</title>
-	</programme>
-	<programme channel="乐游" start="20260706145800 +0800" stop="20260706153900 +0800">
-		<title lang="zh">金色营养课</title>
-	</programme>
-	<programme channel="乐游" start="20260706153900 +0800" stop="20260706160100 +0800">
+	<programme channel="乐游" start="20260706002900 +0800" stop="20260706005200 +0800">
 		<title lang="zh">极限冰岛(6)</title>
 	</programme>
-	<programme channel="乐游" start="20260706160100 +0800" stop="20260706162000 +0800">
-		<title lang="zh">寻找目的地:魅力南欧阳光西葡2号</title>
+	<programme channel="乐游" start="20260706005200 +0800" stop="20260706011500 +0800">
+		<title lang="zh">味道中山(3):早餐诱惑</title>
 	</programme>
-	<programme channel="乐游" start="20260706162000 +0800" stop="20260706162200 +0800">
-		<title lang="zh">一碗人间烟火(2):红烧羊肉</title>
+	<programme channel="乐游" start="20260706011500 +0800" stop="20260706011800 +0800">
+		<title lang="zh">一碗人间烟火(52):临沂炒鸡</title>
 	</programme>
-	<programme channel="乐游" start="20260706162200 +0800" stop="20260706164800 +0800">
-		<title lang="zh">寻找目的地</title>
+	<programme channel="乐游" start="20260706011800 +0800" stop="20260706012300 +0800">
+		<title lang="zh">乐游上海:我的黄浦攻略</title>
 	</programme>
-	<programme channel="乐游" start="20260706164800 +0800" stop="20260706171300 +0800">
-		<title lang="zh">城市烟火(9):盐之有物</title>
+	<programme channel="乐游" start="20260706012300 +0800" stop="20260706013100 +0800">
+		<title lang="zh">上博匠心(2):古籍修复技艺</title>
 	</programme>
-	<programme channel="乐游" start="20260706171300 +0800" stop="20260706171500 +0800">
-		<title lang="zh">一碗人间烟火(3):油爆虾</title>
+	<programme channel="乐游" start="20260706013100 +0800" stop="20260706015400 +0800">
+		<title lang="zh">味道中山(4):季节味道</title>
 	</programme>
-	<programme channel="乐游" start="20260706171500 +0800" stop="20260706174000 +0800">
-		<title lang="zh">指尖上的传承:金漆木雕</title>
+	<programme channel="乐游" start="20260706015400 +0800" stop="20260706015700 +0800">
+		<title lang="zh">一碗人间烟火(53):响油鳝丝</title>
 	</programme>
-	<programme channel="乐游" start="20260706174000 +0800" stop="20260706174500 +0800">
-		<title lang="zh">非遗新体验:海派徽菜烹饪技艺</title>
+	<programme channel="乐游" start="20260706015700 +0800" stop="20260706022500 +0800">
+		<title lang="zh">城市烟火(3):无辣不欢</title>
 	</programme>
-	<programme channel="乐游" start="20260706174500 +0800" stop="20260706180800 +0800">
-		<title lang="zh">美丽乡村(10):人之初</title>
+	<programme channel="乐游" start="20260706022500 +0800" stop="20260706022700 +0800">
+		<title lang="zh">一碗人间烟火(54):绿波廊锦鲤饺</title>
 	</programme>
-	<programme channel="乐游" start="20260706180800 +0800" stop="20260706183400 +0800">
-		<title lang="zh">行走的图腾(3):灵感之源</title>
+	<programme channel="乐游" start="20260706022700 +0800" stop="20260706023100 +0800">
+		<title lang="zh">漫步上海(6):思南公馆</title>
 	</programme>
-	<programme channel="乐游" start="20260706183400 +0800" stop="20260706185500 +0800">
-		<title lang="zh">极限冰岛(7)</title>
+	<programme channel="乐游" start="20260706023100 +0800" stop="20260706025600 +0800">
+		<title lang="zh">指尖上的传承:歙砚</title>
 	</programme>
-	<programme channel="乐游" start="20260706185500 +0800" stop="20260706192000 +0800">
-		<title lang="zh">千年陕菜(5):炊金馔玉</title>
+	<programme channel="乐游" start="20260706025600 +0800" stop="20260706030000 +0800">
+		<title lang="zh">非遗新体验:中医药香品调制技艺</title>
 	</programme>
-	<programme channel="乐游" start="20260706192000 +0800" stop="20260706200000 +0800">
-		<title lang="zh">金色营养课</title>
+	<programme channel="乐游" start="20260706030000 +0800" stop="20260706032400 +0800">
+		<title lang="zh">美丽乡村(4):水之乡</title>
 	</programme>
-	<programme channel="乐游" start="20260706200000 +0800" stop="20260706205100 +0800">
-		<title lang="zh">东购美加双国六大赏枫秘境等</title>
+	<programme channel="乐游" start="20260706032400 +0800" stop="20260706035300 +0800">
+		<title lang="zh">历史现场:巴蜀石刻</title>
 	</programme>
-	<programme channel="乐游" start="20260706205100 +0800" stop="20260706212900 +0800">
-		<title lang="zh">大河之北Ⅱ(1):长城</title>
+	<programme channel="乐游" start="20260706035300 +0800" stop="20260706040100 +0800">
+		<title lang="zh">上博匠心(3):古陶瓷修复技艺</title>
 	</programme>
-	<programme channel="乐游" start="20260706212900 +0800" stop="20260706214400 +0800">
-		<title lang="zh">寻找目的地:壮美三峡神奇武隆6号</title>
+	<programme channel="乐游" start="20260706040100 +0800" stop="20260706042400 +0800">
+		<title lang="zh">极限冰岛(1)</title>
 	</programme>
-	<programme channel="乐游" start="20260706214400 +0800" stop="20260706214800 +0800">
-		<title lang="zh">乐游上海:来黄浦碰头</title>
+	<programme channel="乐游" start="20260706042400 +0800" stop="20260706044800 +0800">
+		<title lang="zh">味道中山(5):天地农家</title>
 	</programme>
-	<programme channel="乐游" start="20260706214800 +0800" stop="20260706220500 +0800">
-		<title lang="zh">寻找目的地</title>
+	<programme channel="乐游" start="20260706044800 +0800" stop="20260706045000 +0800">
+		<title lang="zh">一碗人间烟火(55):杨梅圆子</title>
 	</programme>
-	<programme channel="乐游" start="20260706220500 +0800" stop="20260706220900 +0800">
-		<title lang="zh">乐游上海:向世界发出邀请</title>
+	<programme channel="乐游" start="20260706045000 +0800" stop="20260706051600 +0800">
+		<title lang="zh">城市烟火(4):品味中西</title>
 	</programme>
-	<programme channel="乐游" start="20260706220900 +0800" stop="20260706223400 +0800">
-		<title lang="zh">千年陕菜(5):炊金馔玉</title>
+	<programme channel="乐游" start="20260706051600 +0800" stop="20260706051900 +0800">
+		<title lang="zh">一碗人间烟火(56):开水白菜</title>
 	</programme>
-	<programme channel="乐游" start="20260706223400 +0800" stop="20260706230000 +0800">
-		<title lang="zh">城市烟火(10):万饼风情</title>
+	<programme channel="乐游" start="20260706051900 +0800" stop="20260706052300 +0800">
+		<title lang="zh">漫步上海(7):上海犹太难民纪念馆</title>
 	</programme>
-	<programme channel="乐游" start="20260706230000 +0800" stop="20260706230100 +0800">
-		<title lang="zh">一碗人间烟火(5):陈皮牛肉</title>
+	<programme channel="乐游" start="20260706052300 +0800" stop="20260706054800 +0800">
+		<title lang="zh">指尖上的传承:苏绣</title>
 	</programme>
-	<programme channel="乐游" start="20260706230100 +0800" stop="20260706230400 +0800">
-		<title lang="zh">漫步上海(9):上海中心</title>
+	<programme channel="乐游" start="20260706054800 +0800" stop="20260706055200 +0800">
+		<title lang="zh">非遗新体验(7):海派盘扣</title>
 	</programme>
-	<programme channel="乐游" start="20260706230400 +0800" stop="20260706234200 +0800">
-		<title lang="zh">大河之北Ⅱ(1):长城</title>
+	<programme channel="乐游" start="20260706055200 +0800" stop="20260706061600 +0800">
+		<title lang="zh">美丽乡村(5):云之南</title>
 	</programme>
-	<programme channel="乐游" start="20260706234200 +0800" stop="20260706234600 +0800">
-		<title lang="zh">城市推荐官(2):相遇美好食客</title>
+	<programme channel="乐游" start="20260706061600 +0800" stop="20260706065000 +0800">
+		<title lang="zh">历史现场:松江城市露天博物馆</title>
 	</programme>
-	<programme channel="乐游" start="20260706234600 +0800" stop="20260706235200 +0800">
-		<title lang="zh">国宝里的新疆Ⅰ(5)</title>
+	<programme channel="乐游" start="20260706065000 +0800" stop="20260706065800 +0800">
+		<title lang="zh">上博匠心:青铜器修复及复制技艺</title>
 	</programme>
-	<programme channel="乐游" start="20260706235200 +0800" stop="20260707000000 +0800">
-		<title lang="zh">乐游上海:一盏千秋湖心亭</title>
+	<programme channel="乐游" start="20260706065800 +0800" stop="20260706072000 +0800">
+		<title lang="zh">极限冰岛(2)</title>
+	</programme>
+	<programme channel="乐游" start="20260706072000 +0800" stop="20260706074300 +0800">
+		<title lang="zh">味道中山(6):鱼米之乡</title>
+	</programme>
+	<programme channel="乐游" start="20260706074300 +0800" stop="20260706074700 +0800">
+		<title lang="zh">一碗人间烟火(57):红霞贝皇银丝</title>
+	</programme>
+	<programme channel="乐游" start="20260706074700 +0800" stop="20260706081300 +0800">
+		<title lang="zh">城市烟火(5):一日之始</title>
+	</programme>
+	<programme channel="乐游" start="20260706081300 +0800" stop="20260706081600 +0800">
+		<title lang="zh">漫步上海(8):新天地</title>
+	</programme>
+	<programme channel="乐游" start="20260706081600 +0800" stop="20260706082000 +0800">
+		<title lang="zh">一碗人间烟火(58):张泽红烧羊肉</title>
+	</programme>
+	<programme channel="乐游" start="20260706082000 +0800" stop="20260706084400 +0800">
+		<title lang="zh">指尖上的传承:长白仙草</title>
+	</programme>
+	<programme channel="乐游" start="20260706084400 +0800" stop="20260706084700 +0800">
+		<title lang="zh">非遗新体验(8):梅龙镇酒家</title>
+	</programme>
+	<programme channel="乐游" start="20260706084700 +0800" stop="20260706085200 +0800">
+		<title lang="zh">乐游上海:黄浦纳凉地限定体验</title>
+	</programme>
+	<programme channel="乐游" start="20260706085200 +0800" stop="20260706091600 +0800">
+		<title lang="zh">美丽乡村(6):关之北</title>
+	</programme>
+	<programme channel="乐游" start="20260706091600 +0800" stop="20260706094200 +0800">
+		<title lang="zh">历史现场:云冈石窟</title>
+	</programme>
+	<programme channel="乐游" start="20260706094200 +0800" stop="20260706094900 +0800">
+		<title lang="zh">上博匠心(5):古代家具修复技艺</title>
+	</programme>
+	<programme channel="乐游" start="20260706094900 +0800" stop="20260706095400 +0800">
+		<title lang="zh">乐游上海</title>
+	</programme>
+	<programme channel="乐游" start="20260706095400 +0800" stop="20260706101500 +0800">
+		<title lang="zh">极限冰岛(3)</title>
+	</programme>
+	<programme channel="乐游" start="20260706101500 +0800" stop="20260706104200 +0800">
+		<title lang="zh">千年陕菜(1):九鼎之味</title>
+	</programme>
+	<programme channel="乐游" start="20260706104200 +0800" stop="20260706104400 +0800">
+		<title lang="zh">一碗人间烟火(59):芹黄鹌鹑丝</title>
+	</programme>
+	<programme channel="乐游" start="20260706104400 +0800" stop="20260706111200 +0800">
+		<title lang="zh">城市烟火(6):对月围炉</title>
+	</programme>
+	<programme channel="乐游" start="20260706111200 +0800" stop="20260706111500 +0800">
+		<title lang="zh">一碗人间烟火(60):清炒素蟹粉</title>
+	</programme>
+	<programme channel="乐游" start="20260706111500 +0800" stop="20260706114000 +0800">
+		<title lang="zh">指尖上的传承:侗族大歌</title>
+	</programme>
+	<programme channel="乐游" start="20260706114000 +0800" stop="20260706114200 +0800">
+		<title lang="zh">非遗新体验(9):上海皮影</title>
+	</programme>
+	<programme channel="乐游" start="20260706114200 +0800" stop="20260706114600 +0800">
+		<title lang="zh">乐游临港:年轻人的城</title>
+	</programme>
+	<programme channel="乐游" start="20260706114600 +0800" stop="20260706120900 +0800">
+		<title lang="zh">美丽乡村(7):土之丘</title>
+	</programme>
+	<programme channel="乐游" start="20260706120900 +0800" stop="20260706122400 +0800">
+		<title lang="zh">历史现场:应县木塔</title>
+	</programme>
+	<programme channel="乐游" start="20260706122400 +0800" stop="20260706124100 +0800">
+		<title lang="zh">走进广富林</title>
+	</programme>
+	<programme channel="乐游" start="20260706124100 +0800" stop="20260706124900 +0800">
+		<title lang="zh">上博匠心(6):古书画装裱修复技艺</title>
+	</programme>
+	<programme channel="乐游" start="20260706124900 +0800" stop="20260706131100 +0800">
+		<title lang="zh">极限冰岛(4)</title>
+	</programme>
+	<programme channel="乐游" start="20260706131100 +0800" stop="20260706133800 +0800">
+		<title lang="zh">千年陕菜(2):妙造自然</title>
 	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
@@ -18693,23 +18546,26 @@
 	<programme channel="海南卫视" start="20260704225100 +0800" stop="20260704233000 +0800">
 		<title lang="zh">视界:一个国家公园的故事</title>
 	</programme>
-	<programme channel="海南卫视" start="20260704233000 +0800" stop="20260705000500 +0800">
+	<programme channel="海南卫视" start="20260704233000 +0800" stop="20260705000000 +0800">
 		<title lang="zh">乡村振兴电视夜校</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705000000 +0800" stop="20260705000500 +0800">
+		<title lang="zh">风华正茂向南渡</title>
 	</programme>
 	<programme channel="海南卫视" start="20260705000500 +0800" stop="20260705003500 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260705003500 +0800" stop="20260705010000 +0800">
+	<programme channel="海南卫视" start="20260705003500 +0800" stop="20260705010300 +0800">
 		<title lang="zh">步步为营</title>
 	</programme>
-	<programme channel="海南卫视" start="20260705010000 +0800" stop="20260705023000 +0800">
-		<title lang="zh">凌晨剧场</title>
+	<programme channel="海南卫视" start="20260705010300 +0800" stop="20260705014800 +0800">
+		<title lang="zh">六姊妹11</title>
 	</programme>
-	<programme channel="海南卫视" start="20260705010000 +0800" stop="20260705023000 +0800">
-		<title lang="zh">凌晨剧场</title>
+	<programme channel="海南卫视" start="20260705014800 +0800" stop="20260705023300 +0800">
+		<title lang="zh">六姊妹12</title>
 	</programme>
-	<programme channel="海南卫视" start="20260705023000 +0800" stop="20260705032000 +0800">
-		<title lang="zh">健康新时代</title>
+	<programme channel="海南卫视" start="20260705023300 +0800" stop="20260705032000 +0800">
+		<title lang="zh">纪录中国</title>
 	</programme>
 	<programme channel="海南卫视" start="20260705032000 +0800" stop="20260705035000 +0800">
 		<title lang="zh">卫视高尔夫</title>
@@ -18720,11 +18576,14 @@
 	<programme channel="海南卫视" start="20260705040500 +0800" stop="20260705042000 +0800">
 		<title lang="zh">全球国货之光</title>
 	</programme>
-	<programme channel="海南卫视" start="20260705042000 +0800" stop="20260705045600 +0800">
-		<title lang="zh">动漫剧场</title>
+	<programme channel="海南卫视" start="20260705042000 +0800" stop="20260705045900 +0800">
+		<title lang="zh">海底小纵队中国之旅3</title>
 	</programme>
-	<programme channel="海南卫视" start="20260705045600 +0800" stop="20260705063500 +0800">
-		<title lang="zh">凌晨剧场</title>
+	<programme channel="海南卫视" start="20260705045900 +0800" stop="20260705054300 +0800">
+		<title lang="zh">六姊妹13</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705054300 +0800" stop="20260705063500 +0800">
+		<title lang="zh">六姊妹14</title>
 	</programme>
 	<programme channel="海南卫视" start="20260705063500 +0800" stop="20260705070000 +0800">
 		<title lang="zh">全球国货之光</title>
@@ -18735,8 +18594,83 @@
 	<programme channel="海南卫视" start="20260705070100 +0800" stop="20260705073300 +0800">
 		<title lang="zh">海南新闻联播</title>
 	</programme>
-	<programme channel="海南卫视" start="20260705073300 +0800" stop="20260705180800 +0800">
-		<title lang="zh">阳光剧场</title>
+	<programme channel="海南卫视" start="20260705073300 +0800" stop="20260705080100 +0800">
+		<title lang="zh">穆桂英挂帅6</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705080100 +0800" stop="20260705081100 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705081100 +0800" stop="20260705083900 +0800">
+		<title lang="zh">穆桂英挂帅7</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705083900 +0800" stop="20260705084900 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705084900 +0800" stop="20260705091800 +0800">
+		<title lang="zh">穆桂英挂帅8</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705091800 +0800" stop="20260705093700 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705093700 +0800" stop="20260705100500 +0800">
+		<title lang="zh">穆桂英挂帅9</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705100500 +0800" stop="20260705102500 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705102500 +0800" stop="20260705105300 +0800">
+		<title lang="zh">穆桂英挂帅10</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705105300 +0800" stop="20260705111300 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705111300 +0800" stop="20260705114100 +0800">
+		<title lang="zh">穆桂英挂帅11</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705114100 +0800" stop="20260705120200 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705120200 +0800" stop="20260705123000 +0800">
+		<title lang="zh">穆桂英挂帅12</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705123000 +0800" stop="20260705130000 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705130000 +0800" stop="20260705132800 +0800">
+		<title lang="zh">穆桂英挂帅13</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705132800 +0800" stop="20260705134800 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705134800 +0800" stop="20260705141600 +0800">
+		<title lang="zh">穆桂英挂帅14</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705141600 +0800" stop="20260705143600 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705143600 +0800" stop="20260705150500 +0800">
+		<title lang="zh">穆桂英挂帅15</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705150500 +0800" stop="20260705152400 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705152400 +0800" stop="20260705155200 +0800">
+		<title lang="zh">穆桂英挂帅16</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705155200 +0800" stop="20260705161200 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705161200 +0800" stop="20260705164000 +0800">
+		<title lang="zh">穆桂英挂帅17</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705164000 +0800" stop="20260705170000 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705170000 +0800" stop="20260705172800 +0800">
+		<title lang="zh">穆桂英挂帅18</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705172800 +0800" stop="20260705180800 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<programme channel="海南卫视" start="20260705180800 +0800" stop="20260705182200 +0800">
 		<title lang="zh">天眼归来之幸福配方</title>
@@ -18750,22 +18684,40 @@
 	<programme channel="海南卫视" start="20260705190000 +0800" stop="20260705193000 +0800">
 		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="海南卫视" start="20260705193000 +0800" stop="20260705200000 +0800">
+	<programme channel="海南卫视" start="20260705193000 +0800" stop="20260705193300 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705193300 +0800" stop="20260705195000 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
-	<programme channel="海南卫视" start="20260705200000 +0800" stop="20260705203000 +0800">
-		<title lang="zh">自贸港·财经视界</title>
+	<programme channel="海南卫视" start="20260705195000 +0800" stop="20260705200000 +0800">
+		<title lang="zh">风华正茂向南渡</title>
 	</programme>
-	<programme channel="海南卫视" start="20260705203000 +0800" stop="20260705223000 +0800">
-		<title lang="zh">金椰剧场</title>
+	<programme channel="海南卫视" start="20260705200000 +0800" stop="20260705202500 +0800">
+		<title lang="zh">自贸港财经视界</title>
 	</programme>
-	<programme channel="海南卫视" start="20260705223000 +0800" stop="20260705225100 +0800">
-		<title lang="zh">视界:一个国家公园的故事</title>
+	<programme channel="海南卫视" start="20260705202500 +0800" stop="20260705203300 +0800">
+		<title lang="zh">风华正茂向南渡</title>
 	</programme>
-	<programme channel="海南卫视" start="20260705225100 +0800" stop="20260705232000 +0800">
-		<title lang="zh">视界:一个国家公园的故事</title>
+	<programme channel="海南卫视" start="20260705203300 +0800" stop="20260705211800 +0800">
+		<title lang="zh">人世间9</title>
 	</programme>
-	<programme channel="海南卫视" start="20260705232000 +0800" stop="20260706001500 +0800">
+	<programme channel="海南卫视" start="20260705211800 +0800" stop="20260705220000 +0800">
+		<title lang="zh">人世间10</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705220000 +0800" stop="20260705223100 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705223100 +0800" stop="20260705225000 +0800">
+		<title lang="zh">视界一个国家公园的故事</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705225000 +0800" stop="20260705232300 +0800">
+		<title lang="zh">视界一个国家公园的故事</title>
+	</programme>
+	<programme channel="海南卫视" start="20260705232300 +0800" stop="20260705235900 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="海南卫视" start="20260706000000 +0800" stop="20260706001500 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
 	<programme channel="海南卫视" start="20260706001500 +0800" stop="20260706023500 +0800">
