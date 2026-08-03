@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260802225948 +0800">
+<tv date="20260803125732 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -14819,6 +14819,132 @@
 	</programme>
 	<programme channel="CGTN法语" start="20260803233000 +0800" stop="20260803235900 +0800">
 		<title lang="zh">魅力东方</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804000000 +0800" stop="20260804001500 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804001500 +0800" stop="20260804010000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804010000 +0800" stop="20260804014500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804014500 +0800" stop="20260804020000 +0800">
+		<title lang="zh">动画城</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804020000 +0800" stop="20260804023000 +0800">
+		<title lang="zh">中国大舞台</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804023000 +0800" stop="20260804030000 +0800">
+		<title lang="zh">纪事东八区</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804030000 +0800" stop="20260804040000 +0800">
+		<title lang="zh">中国全视角</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804040000 +0800" stop="20260804043000 +0800">
+		<title lang="zh">美食大搜索</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804043000 +0800" stop="20260804051500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804051500 +0800" stop="20260804060000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804060000 +0800" stop="20260804064500 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804064500 +0800" stop="20260804071500 +0800">
+		<title lang="zh">光华世界观察</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804071500 +0800" stop="20260804074500 +0800">
+		<title lang="zh">美食大搜索</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804074500 +0800" stop="20260804080000 +0800">
+		<title lang="zh">动画城</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804080000 +0800" stop="20260804083000 +0800">
+		<title lang="zh">非洲面孔</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804083000 +0800" stop="20260804090000 +0800">
+		<title lang="zh">纪事东八区</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804090000 +0800" stop="20260804100000 +0800">
+		<title lang="zh">中国全视角</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804100000 +0800" stop="20260804103000 +0800">
+		<title lang="zh">光华世界观察</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804103000 +0800" stop="20260804111500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804111500 +0800" stop="20260804120000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804120000 +0800" stop="20260804130000 +0800">
+		<title lang="zh">中国全视角</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804130000 +0800" stop="20260804133000 +0800">
+		<title lang="zh">综合新闻</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804133000 +0800" stop="20260804141500 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804141500 +0800" stop="20260804143000 +0800">
+		<title lang="zh">动画城</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804143000 +0800" stop="20260804150000 +0800">
+		<title lang="zh">非洲面孔</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804150000 +0800" stop="20260804153000 +0800">
+		<title lang="zh">综合新闻</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804153000 +0800" stop="20260804160000 +0800">
+		<title lang="zh">纪事东八区</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804160000 +0800" stop="20260804163000 +0800">
+		<title lang="zh">财经时间</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804163000 +0800" stop="20260804170000 +0800">
+		<title lang="zh">美食大搜索</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804170000 +0800" stop="20260804173000 +0800">
+		<title lang="zh">光华世界观察</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804173000 +0800" stop="20260804181500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804181500 +0800" stop="20260804190000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804190000 +0800" stop="20260804193000 +0800">
+		<title lang="zh">综合新闻</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804193000 +0800" stop="20260804200000 +0800">
+		<title lang="zh">纪事东八区</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804200000 +0800" stop="20260804203000 +0800">
+		<title lang="zh">非洲新闻联播</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804203000 +0800" stop="20260804211500 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804211500 +0800" stop="20260804213000 +0800">
+		<title lang="zh">动画城</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804213000 +0800" stop="20260804220000 +0800">
+		<title lang="zh">非洲面孔</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804220000 +0800" stop="20260804223000 +0800">
+		<title lang="zh">综合新闻</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804223000 +0800" stop="20260804230000 +0800">
+		<title lang="zh">光华世界观察</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804230000 +0800" stop="20260804233000 +0800">
+		<title lang="zh">美食大搜索</title>
+	</programme>
+	<programme channel="CGTN法语" start="20260804233000 +0800" stop="20260805000000 +0800">
+		<title lang="zh">纪录片</title>
 	</programme>
 	<channel id="CHC动作电影">
 		<display-name lang="zh">CHC动作电影</display-name>
